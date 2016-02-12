@@ -1,3 +1,5 @@
 print "Hello world!"
 
 print "Hello everybody world!"
+
+/* repeat hello into file Hello 2 */
